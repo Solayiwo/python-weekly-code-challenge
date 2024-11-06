@@ -1,0 +1,1 @@
+Built-in data structures in Python, like Strings, Lists, Tuples, Dictionaries, Sets.
