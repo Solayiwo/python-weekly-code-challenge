@@ -17,7 +17,7 @@ discount_percentage = float(input("Enter the discount percentage: "))
 finalPrice = calculate_discount(original_price, discount_percentage)
 
 if finalPrice < original_price:
-    print(finalPrice)
+    print(f"Final price after applying discount is: {finalPrice}")
 else:
-    print(original_price)
+    print(f"No discount is applied, Original price is: {original_price}")
 
